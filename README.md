@@ -1,1 +1,3 @@
 # TerraformLab
+
+Terraform example application
